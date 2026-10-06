@@ -56,9 +56,8 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/celinnkj/afya-admin.git
-
+```
 ---
-
 ## 🖼️ Screenshots
 
 ### Dashboard completo
