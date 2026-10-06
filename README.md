@@ -55,7 +55,7 @@ Os dados utilizados no projeto são dados demonstrativos, organizados em uma cam
 Clone o repositório:
 
 ```bash
-git clone https://github.com/celinnkj/afya-admin.gitS
+git clone https://github.com/celinnkj/afya-admin.git
 
 ---
 
